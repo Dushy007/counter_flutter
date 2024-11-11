@@ -1,0 +1,10 @@
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/runner/CMakeFiles/nama_app_folder_structure.dir
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/projects/temp/nama_app_folder_structure/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir

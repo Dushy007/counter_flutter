@@ -1,0 +1,10 @@
+^D:\PROJECTS\TEMP\NAMA_APP_FOLDER_STRUCTURE\BUILD\WINDOWS\X64\CMAKEFILES\62AF322EDD40583E905507582AE6DEE3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/projects/temp/nama_app_folder_structure/windows -BD:/projects/temp/nama_app_folder_structure/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/projects/temp/nama_app_folder_structure/build/windows/x64/nama_app_folder_structure.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

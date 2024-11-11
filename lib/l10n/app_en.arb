@@ -1,0 +1,10 @@
+{
+  "apptitle": "Nama Water Services",
+  "@apptitle": {
+    "description": "This is the application title"
+  },
+  "countquestion": "You have pushed the button this many times",
+  "@countquestion": {
+    "description": "This is the application title"
+  }
+}

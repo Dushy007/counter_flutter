@@ -1,0 +1,28 @@
+^D:\PROJECTS\TEMP\NAMA_APP_FOLDER_STRUCTURE\BUILD\WINDOWS\X64\CMAKEFILES\72888C97E36D25350E7364DB304E1B9A\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter\flutter PROJECT_DIR=D:\projects\temp\nama_app_folder_structure FLUTTER_ROOT=C:\src\flutter\flutter FLUTTER_EPHEMERAL_DIR=D:\projects\temp\nama_app_folder_structure\windows\flutter\ephemeral PROJECT_DIR=D:\projects\temp\nama_app_folder_structure FLUTTER_TARGET=D:\projects\temp\nama_app_folder_structure\lib\main.dart DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\projects\temp\nama_app_folder_structure\.dart_tool\package_config.json C:/src/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECTS\TEMP\NAMA_APP_FOLDER_STRUCTURE\BUILD\WINDOWS\X64\CMAKEFILES\76625828E68E882E61774B3272B52CF3\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECTS\TEMP\NAMA_APP_FOLDER_STRUCTURE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/projects/temp/nama_app_folder_structure/windows -BD:/projects/temp/nama_app_folder_structure/build/windows/x64 --check-stamp-file D:/projects/temp/nama_app_folder_structure/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
